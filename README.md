@@ -468,7 +468,7 @@ Q :  We have 11 villages and have to place 3 shops in between them. Find the loc
 
 ![graph (1).png](Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/graph_(1).png)
 
-$e(1) = 10$
+```$e(1) = 10$
 
 d(1, 2) = 2
 
@@ -484,9 +484,10 @@ d(1, 7) = 1
 
 d(1, 8) = 7
 
-d(1, 9) = 8
+d(1, 9) = 8```
 
-`d(1,10)=10`
+
+````d(1,10)=10`
 
 d(1, 11) = 2
 
@@ -506,7 +507,7 @@ d(2, 7) = 3
 
 d(2, 8) = 5
 
-d(2, 9) = 6
+d(2, 9) = 6```
 
 `d(2,10)=8`
 
