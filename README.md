@@ -169,19 +169,19 @@ G = ( V, E)
 
  
 
-![photo_2023-01-10_00-20-23.jpg](Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-10_00-20-23.jpg)
+![photo_2023-01-10_00-20-23.jpg](./Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-10_00-20-23.jpg)
 
 ---
 
 **Parallel edges :** Parallel edges are two or more edges that connect the same two vertices.
 
-![photo_2023-01-10_00-20-28.jpg](Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-10_00-20-28.jpg)
+![photo_2023-01-10_00-20-28.jpg](./Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-10_00-20-28.jpg)
 
 ---
 
 **Degree of vertex [deg(v)] :** Degree of a vertex is a measure of the number of edges incident to it, or connected to it.
 
-![photo_2023-01-10_00-20-33.jpg](Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-10_00-20-33.jpg)
+![photo_2023-01-10_00-20-33.jpg](./Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-10_00-20-33.jpg)
 
 ---
 
@@ -193,7 +193,7 @@ deg-(v1) = 2
 
 deg-(v2)= 1
 
-![photo_2023-01-10_00-20-38.jpg](Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-10_00-20-38.jpg)
+![photo_2023-01-10_00-20-38.jpg](./Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-10_00-20-38.jpg)
 
 ---
 
@@ -205,7 +205,7 @@ deg+(v1) = 1
 
 deg+(v2)= 1
 
-![photo_2023-01-10_00-20-38.jpg](Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-10_00-20-38%201.jpg)
+![photo_2023-01-10_00-20-38.jpg](./Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-10_00-20-38%201.jpg)
 
 ---
 
@@ -229,7 +229,7 @@ deg(v)= 0
 
 deg(V) = 1
 
-![photo_2023-01-10_00-20-41.jpg](Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-10_00-20-41.jpg)
+![photo_2023-01-10_00-20-41.jpg](./Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-10_00-20-41.jpg)
 
 ---
 
@@ -243,7 +243,7 @@ deg(V) = 1
 
 $d(v1, v4) = 2$ 
 
-![photo_2023-01-09_22-12-14 (1).jpg](Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-09_22-12-14_(1).jpg)
+![photo_2023-01-09_22-12-14 (1).jpg](./Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-09_22-12-14_(1).jpg)
 
 ---
 
@@ -267,7 +267,7 @@ $d(v2, v8) = 2$
 
 $`d(v2, v9) = 3`$ **
 
-![photo_2023-01-09_22-12-14 (1).jpg](Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-09_22-12-14_(1).jpg)
+![photo_2023-01-09_22-12-14 (1).jpg](./Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-09_22-12-14_(1).jpg)
 
 $e(v2) = 3$
 
@@ -295,7 +295,7 @@ $d(v1, v8) = 3$
 
 $d(v1, v9) = 2$
 
-![photo_2023-01-09_22-12-14 (1).jpg](Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-09_22-12-14_(1).jpg)
+![photo_2023-01-09_22-12-14 (1).jpg](./Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-09_22-12-14_(1).jpg)
 
 In this case, the minimum distance is 1, which occurs for the distances from v1 to v2, v5, and v6. Therefore, the radius of the graph is 1. r(G) = 1
 
@@ -330,7 +330,7 @@ Center of The Graph : ${v2,v7}$
 
 $v6,v7,v8,v9,v6 = 4$
 
-![photo_2023-01-09_23-17-35.jpg](Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-09_23-17-35.jpg)
+![photo_2023-01-09_23-17-35.jpg](./Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-09_23-17-35.jpg)
 
 ---
 
@@ -338,7 +338,7 @@ $v6,v7,v8,v9,v6 = 4$
 
 $v1,v2,v7,v6,v9,v8,v4,v5,v1 = 8$
 
-![photo_2023-01-09_23-17-35.jpg](Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-09_23-17-35.jpg)
+![photo_2023-01-09_23-17-35.jpg](./Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-09_23-17-35.jpg)
 
 ### Type of Graph
 
@@ -384,7 +384,7 @@ $v1,v2,v7,v6,v9,v8,v4,v5,v1 = 8$
     
     a complete graph is a graph in which every pair of distinct vertices is connected by an edge. A complete graph with n vertices is denoted as Kn.
     
-    ![photo_2023-01-09_23-46-56.jpg](Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-09_23-46-56.jpg)
+    ![photo_2023-01-09_23-46-56.jpg](./Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-09_23-46-56.jpg)
     
     ---
     
@@ -396,7 +396,7 @@ $v1,v2,v7,v6,v9,v8,v4,v5,v1 = 8$
     
     deg(vi) = K
     
-    ![photo_2023-01-09_23-46-51.jpg](Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-09_23-46-51.jpg)
+    ![photo_2023-01-09_23-46-51.jpg](./Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-09_23-46-51.jpg)
     
     This graph is **2-regular graph**
     
@@ -406,7 +406,7 @@ $v1,v2,v7,v6,v9,v8,v4,v5,v1 = 8$
     
     Bipartite graph is a graph whose vertices can be divided into two disjoint sets such that every edge in the graph connects a vertex in one set to a vertex in the other set.
     
-    ![photo_2023-01-10_00-03-40.jpg](Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-10_00-03-40.jpg)
+    ![photo_2023-01-10_00-03-40.jpg](./Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-10_00-03-40.jpg)
     
     ---
     
@@ -414,13 +414,13 @@ $v1,v2,v7,v6,v9,v8,v4,v5,v1 = 8$
     
     A complete bipartite graph is a bipartite graph in which every vertex in one set is connected to every vertex in the other set.
     
-    ![photo_2023-01-10_00-03-36.jpg](Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-10_00-03-36.jpg)
+    ![photo_2023-01-10_00-03-36.jpg](./Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-10_00-03-36.jpg)
     
     ---
     
 11. **Star Graph**
 
-![photo_2023-01-10_00-03-31.jpg](Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-10_00-03-31.jpg)
+![photo_2023-01-10_00-03-31.jpg](./Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/photo_2023-01-10_00-03-31.jpg)
 
 ---
 
@@ -430,7 +430,7 @@ $v1,v2,v7,v6,v9,v8,v4,v5,v1 = 8$
 
 Q :  We have 11 villages and have to place 3 shops in between them. Find the locations of the villages where you can place the shops.
 
-![graph.png](Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/graph.png)
+![graph.png](./Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/graph.png)
 
 Eccentricity e(Vi)
 
@@ -466,9 +466,9 @@ For 3 shops we can choose any 3 from
 
 Q :  We have 11 villages and have to place 3 shops in between them. Find the locations of the villages where you can place the shops.
 
-![graph (1).png](Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/graph_(1).png)
+![graph (1).png](./Automata%20-%20Shubhanshu%20Singh%2035bd5948ace841edaaa43970a0a9843c/graph_(1).png)
 
-```$e(1) = 10$
+$e(1) = 10$
 
 d(1, 2) = 2
 
@@ -484,10 +484,9 @@ d(1, 7) = 1
 
 d(1, 8) = 7
 
-d(1, 9) = 8```
+d(1, 9) = 8
 
-
-````d(1,10)=10`
+`d(1,10)=10`
 
 d(1, 11) = 2
 
@@ -507,7 +506,7 @@ d(2, 7) = 3
 
 d(2, 8) = 5
 
-d(2, 9) = 6```
+d(2, 9) = 6
 
 `d(2,10)=8`
 
