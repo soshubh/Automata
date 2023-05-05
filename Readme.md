@@ -702,6 +702,7 @@ Q : Put a village (v=12) in case I and case II
     
     ---
     
+    
 - **Question :**
     
     Σ = {a, b}
